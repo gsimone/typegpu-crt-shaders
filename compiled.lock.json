@@ -1,0 +1,9 @@
+{
+  "glslang": "Glslang Version: 10:11.9.0\nESSL Version: OpenGL ES GLSL 3.20 glslang Khronos. 11.9.0\nGLSL Version: 4.60 glslang Khronos. 11.9.0\nSPIR-V Version 0x00010600, Revision 1\nGLSL.std.450 Version 100, Revision 1\nKhronos Tool ID 8\nSPIR-V Generator Version 10\nGL_KHR_vulkan_glsl version 100\nARB_GL_gl_spirv version 100",
+  "files": {
+    "upstream.lock.json": "cc37df016e4b3d48b4b21b2b8db0ae1087c305818d8dd2f13cf21aab97ceb9c6",
+    "scripts/upstream.mjs": "eb61b4e4021c78e4ec29777bc9acb1bca9cb26b656d2d529f79082fd927ab5b1",
+    "scripts/compat.mjs": "9d9c1d01e47fb1d1253865107a790838eaf9b168bb92eed7b46c2f2eb50ff4e7",
+    "public/compiled/shaders.json": "158659e863d7fc5f83da695a4eebd9425364dbf917119fed03af98d49fc689f4"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "typegpu-crt-shaders",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "upstream:fetch": "node scripts/upstream.mjs fetch",
+    "upstream:compile": "node scripts/upstream.mjs compile",
+    "verify": "node scripts/upstream.mjs verify",
+    "test": "node --experimental-strip-types --test src/*.test.ts scripts/*.test.mjs",
+    "check": "tsc --noEmit && npm run verify && npm test && vite build"
+  },
+  "dependencies": { "typegpu": "0.12.5" },
+  "devDependencies": {
+    "@types/node": "^22.20.4",
+    "@webgpu/types": "0.1.71",
+    "typescript": "5.9.3",
+    "unplugin-typegpu": "0.12.3",
+    "vite": "8.3.0"
+  }
+}

@@ -1,0 +1,438 @@
+[
+  {
+    "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) T3Code(Nightly)/0.0.46-nightly.20261004.2652 Chrome/152.0.7977.130 Electron/44.4.2 Safari/537.36",
+    "metrics": {
+      "differingPixels": 13736,
+      "exact": false,
+      "maxError": 255,
+      "meanError": 3.9931380208333334,
+      "pixels": 307200
+    },
+    "output": {
+      "height": 480,
+      "width": 640
+    },
+    "parameters": {
+      "bloomAmount": 0.15,
+      "brightBoost": 1,
+      "hardBloomPix": -1.5,
+      "hardBloomScan": -2,
+      "hardPix": -3,
+      "hardScan": -8,
+      "maskDark": 0.5,
+      "maskLight": 1.5,
+      "scaleInLinearGamma": 1,
+      "shadowMask": 3,
+      "shape": 2,
+      "warpX": 0.031,
+      "warpY": 0.041
+    },
+    "portRevision": "adaf9fd",
+    "referenceCertified": false,
+    "shader": "lottes",
+    "source": {
+      "height": 240,
+      "name": "diagnostic-pattern",
+      "rgbaSha256": "7423c44bddf594ba4e091a84b49bdc601b8b25f88c2a8b6495414a6acbf9a9d0",
+      "width": 320
+    },
+    "upstreamRevision": "0b3ff0b240f82f4cb5e5d0117f8f2080e2764cf7",
+    "webglRenderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)",
+    "webgpu": {
+      "architecture": "metal-3",
+      "description": "",
+      "device": "",
+      "vendor": "apple"
+    }
+  },
+  {
+    "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) T3Code(Nightly)/0.0.46-nightly.20261004.2652 Chrome/152.0.7977.130 Electron/44.4.2 Safari/537.36",
+    "metrics": {
+      "differingPixels": 21247,
+      "exact": false,
+      "maxError": 255,
+      "meanError": 3.9978979166666666,
+      "pixels": 480000
+    },
+    "output": {
+      "height": 600,
+      "width": 800
+    },
+    "parameters": {
+      "bloomAmount": 0.15,
+      "brightBoost": 1,
+      "hardBloomPix": -1.5,
+      "hardBloomScan": -2,
+      "hardPix": -3,
+      "hardScan": -8,
+      "maskDark": 0.5,
+      "maskLight": 1.5,
+      "scaleInLinearGamma": 1,
+      "shadowMask": 3,
+      "shape": 2,
+      "warpX": 0.031,
+      "warpY": 0.041
+    },
+    "portRevision": "adaf9fd",
+    "referenceCertified": false,
+    "shader": "lottes",
+    "source": {
+      "height": 240,
+      "name": "diagnostic-pattern",
+      "rgbaSha256": "7423c44bddf594ba4e091a84b49bdc601b8b25f88c2a8b6495414a6acbf9a9d0",
+      "width": 320
+    },
+    "upstreamRevision": "0b3ff0b240f82f4cb5e5d0117f8f2080e2764cf7",
+    "webglRenderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)",
+    "webgpu": {
+      "architecture": "metal-3",
+      "description": "",
+      "device": "",
+      "vendor": "apple"
+    }
+  },
+  {
+    "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) T3Code(Nightly)/0.0.46-nightly.20261004.2652 Chrome/152.0.7977.130 Electron/44.4.2 Safari/537.36",
+    "metrics": {
+      "differingPixels": 30853,
+      "exact": false,
+      "maxError": 255,
+      "meanError": 4.000721932870371,
+      "pixels": 691200
+    },
+    "output": {
+      "height": 720,
+      "width": 960
+    },
+    "parameters": {
+      "bloomAmount": 0.15,
+      "brightBoost": 1,
+      "hardBloomPix": -1.5,
+      "hardBloomScan": -2,
+      "hardPix": -3,
+      "hardScan": -8,
+      "maskDark": 0.5,
+      "maskLight": 1.5,
+      "scaleInLinearGamma": 1,
+      "shadowMask": 3,
+      "shape": 2,
+      "warpX": 0.031,
+      "warpY": 0.041
+    },
+    "portRevision": "adaf9fd",
+    "referenceCertified": false,
+    "shader": "lottes",
+    "source": {
+      "height": 240,
+      "name": "diagnostic-pattern",
+      "rgbaSha256": "7423c44bddf594ba4e091a84b49bdc601b8b25f88c2a8b6495414a6acbf9a9d0",
+      "width": 320
+    },
+    "upstreamRevision": "0b3ff0b240f82f4cb5e5d0117f8f2080e2764cf7",
+    "webglRenderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)",
+    "webgpu": {
+      "architecture": "metal-3",
+      "description": "",
+      "device": "",
+      "vendor": "apple"
+    }
+  },
+  {
+    "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) T3Code(Nightly)/0.0.46-nightly.20261004.2652 Chrome/152.0.7977.130 Electron/44.4.2 Safari/537.36",
+    "metrics": {
+      "differingPixels": 54774,
+      "exact": false,
+      "maxError": 255,
+      "meanError": 4.004130859375,
+      "pixels": 1228800
+    },
+    "output": {
+      "height": 960,
+      "width": 1280
+    },
+    "parameters": {
+      "bloomAmount": 0.15,
+      "brightBoost": 1,
+      "hardBloomPix": -1.5,
+      "hardBloomScan": -2,
+      "hardPix": -3,
+      "hardScan": -8,
+      "maskDark": 0.5,
+      "maskLight": 1.5,
+      "scaleInLinearGamma": 1,
+      "shadowMask": 3,
+      "shape": 2,
+      "warpX": 0.031,
+      "warpY": 0.041
+    },
+    "portRevision": "adaf9fd",
+    "referenceCertified": false,
+    "shader": "lottes",
+    "source": {
+      "height": 240,
+      "name": "diagnostic-pattern",
+      "rgbaSha256": "7423c44bddf594ba4e091a84b49bdc601b8b25f88c2a8b6495414a6acbf9a9d0",
+      "width": 320
+    },
+    "upstreamRevision": "0b3ff0b240f82f4cb5e5d0117f8f2080e2764cf7",
+    "webglRenderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)",
+    "webgpu": {
+      "architecture": "metal-3",
+      "description": "",
+      "device": "",
+      "vendor": "apple"
+    }
+  },
+  {
+    "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) T3Code(Nightly)/0.0.46-nightly.20261004.2652 Chrome/152.0.7977.130 Electron/44.4.2 Safari/537.36",
+    "metrics": {
+      "differingPixels": 47558,
+      "exact": false,
+      "maxError": 51,
+      "meanError": 0.17381727430555555,
+      "pixels": 307200
+    },
+    "output": {
+      "height": 480,
+      "width": 640
+    },
+    "parameters": {
+      "BEAM_MAX_WIDTH": 1,
+      "BEAM_MIN_WIDTH": 0.72,
+      "BRIGHTBOOST": 1,
+      "CRT_ANTI_RINGING": 1,
+      "DISPLAY_RES": 0,
+      "GLOW_ENABLE": 0,
+      "GLOW_RADIUS": 4,
+      "GLOW_ROLLOFF": 2,
+      "GLOW_STRENGTH": 0.05,
+      "GLOW_WHITEPOINT": 0.9,
+      "H_InputGamma": 2.4,
+      "H_MaskGamma": 2.4,
+      "H_OUTPUT_GAMMA": 2.2,
+      "IR_SCALE": 1,
+      "LUT_selector_param": 1,
+      "MASK_STRENGTH": 1,
+      "MONITOR_SUBPIXELS": 0,
+      "PHOSPHOR_LAYOUT": 1,
+      "PRESET_OPTION": 0,
+      "SCANLINES_CUTOFF": 400,
+      "SCANLINES_HIRES": 0,
+      "SCANLINES_SHAPE": 1,
+      "SCANLINES_STRENGTH": 0.72,
+      "SHARPNESS_HACK": 1,
+      "VSCANLINES": 0,
+      "h_cornersize": 0.04,
+      "h_cornersmooth": 0.5,
+      "h_curvature": 0,
+      "h_radius": 5,
+      "h_shape": 0
+    },
+    "portRevision": "adaf9fd",
+    "referenceCertified": false,
+    "shader": "hyllian",
+    "source": {
+      "height": 240,
+      "name": "diagnostic-pattern",
+      "rgbaSha256": "7423c44bddf594ba4e091a84b49bdc601b8b25f88c2a8b6495414a6acbf9a9d0",
+      "width": 320
+    },
+    "upstreamRevision": "0b3ff0b240f82f4cb5e5d0117f8f2080e2764cf7",
+    "webglRenderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)",
+    "webgpu": {
+      "architecture": "metal-3",
+      "description": "",
+      "device": "",
+      "vendor": "apple"
+    }
+  },
+  {
+    "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) T3Code(Nightly)/0.0.46-nightly.20261004.2652 Chrome/152.0.7977.130 Electron/44.4.2 Safari/537.36",
+    "metrics": {
+      "differingPixels": 124051,
+      "exact": false,
+      "maxError": 67,
+      "meanError": 0.26086180555555555,
+      "pixels": 480000
+    },
+    "output": {
+      "height": 600,
+      "width": 800
+    },
+    "parameters": {
+      "BEAM_MAX_WIDTH": 1,
+      "BEAM_MIN_WIDTH": 0.72,
+      "BRIGHTBOOST": 1,
+      "CRT_ANTI_RINGING": 1,
+      "DISPLAY_RES": 0,
+      "GLOW_ENABLE": 0,
+      "GLOW_RADIUS": 4,
+      "GLOW_ROLLOFF": 2,
+      "GLOW_STRENGTH": 0.05,
+      "GLOW_WHITEPOINT": 0.9,
+      "H_InputGamma": 2.4,
+      "H_MaskGamma": 2.4,
+      "H_OUTPUT_GAMMA": 2.2,
+      "IR_SCALE": 1,
+      "LUT_selector_param": 1,
+      "MASK_STRENGTH": 1,
+      "MONITOR_SUBPIXELS": 0,
+      "PHOSPHOR_LAYOUT": 1,
+      "PRESET_OPTION": 0,
+      "SCANLINES_CUTOFF": 400,
+      "SCANLINES_HIRES": 0,
+      "SCANLINES_SHAPE": 1,
+      "SCANLINES_STRENGTH": 0.72,
+      "SHARPNESS_HACK": 1,
+      "VSCANLINES": 0,
+      "h_cornersize": 0.04,
+      "h_cornersmooth": 0.5,
+      "h_curvature": 0,
+      "h_radius": 5,
+      "h_shape": 0
+    },
+    "portRevision": "adaf9fd",
+    "referenceCertified": false,
+    "shader": "hyllian",
+    "source": {
+      "height": 240,
+      "name": "diagnostic-pattern",
+      "rgbaSha256": "7423c44bddf594ba4e091a84b49bdc601b8b25f88c2a8b6495414a6acbf9a9d0",
+      "width": 320
+    },
+    "upstreamRevision": "0b3ff0b240f82f4cb5e5d0117f8f2080e2764cf7",
+    "webglRenderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)",
+    "webgpu": {
+      "architecture": "metal-3",
+      "description": "",
+      "device": "",
+      "vendor": "apple"
+    }
+  },
+  {
+    "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) T3Code(Nightly)/0.0.46-nightly.20261004.2652 Chrome/152.0.7977.130 Electron/44.4.2 Safari/537.36",
+    "metrics": {
+      "differingPixels": 162233,
+      "exact": false,
+      "maxError": 78,
+      "meanError": 0.23022231867283952,
+      "pixels": 691200
+    },
+    "output": {
+      "height": 720,
+      "width": 960
+    },
+    "parameters": {
+      "BEAM_MAX_WIDTH": 1,
+      "BEAM_MIN_WIDTH": 0.72,
+      "BRIGHTBOOST": 1,
+      "CRT_ANTI_RINGING": 1,
+      "DISPLAY_RES": 0,
+      "GLOW_ENABLE": 0,
+      "GLOW_RADIUS": 4,
+      "GLOW_ROLLOFF": 2,
+      "GLOW_STRENGTH": 0.05,
+      "GLOW_WHITEPOINT": 0.9,
+      "H_InputGamma": 2.4,
+      "H_MaskGamma": 2.4,
+      "H_OUTPUT_GAMMA": 2.2,
+      "IR_SCALE": 1,
+      "LUT_selector_param": 1,
+      "MASK_STRENGTH": 1,
+      "MONITOR_SUBPIXELS": 0,
+      "PHOSPHOR_LAYOUT": 1,
+      "PRESET_OPTION": 0,
+      "SCANLINES_CUTOFF": 400,
+      "SCANLINES_HIRES": 0,
+      "SCANLINES_SHAPE": 1,
+      "SCANLINES_STRENGTH": 0.72,
+      "SHARPNESS_HACK": 1,
+      "VSCANLINES": 0,
+      "h_cornersize": 0.04,
+      "h_cornersmooth": 0.5,
+      "h_curvature": 0,
+      "h_radius": 5,
+      "h_shape": 0
+    },
+    "portRevision": "adaf9fd",
+    "referenceCertified": false,
+    "shader": "hyllian",
+    "source": {
+      "height": 240,
+      "name": "diagnostic-pattern",
+      "rgbaSha256": "7423c44bddf594ba4e091a84b49bdc601b8b25f88c2a8b6495414a6acbf9a9d0",
+      "width": 320
+    },
+    "upstreamRevision": "0b3ff0b240f82f4cb5e5d0117f8f2080e2764cf7",
+    "webglRenderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)",
+    "webgpu": {
+      "architecture": "metal-3",
+      "description": "",
+      "device": "",
+      "vendor": "apple"
+    }
+  },
+  {
+    "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) T3Code(Nightly)/0.0.46-nightly.20261004.2652 Chrome/152.0.7977.130 Electron/44.4.2 Safari/537.36",
+    "metrics": {
+      "differingPixels": 242000,
+      "exact": false,
+      "maxError": 96,
+      "meanError": 0.23304497612847222,
+      "pixels": 1228800
+    },
+    "output": {
+      "height": 960,
+      "width": 1280
+    },
+    "parameters": {
+      "BEAM_MAX_WIDTH": 1,
+      "BEAM_MIN_WIDTH": 0.72,
+      "BRIGHTBOOST": 1,
+      "CRT_ANTI_RINGING": 1,
+      "DISPLAY_RES": 0,
+      "GLOW_ENABLE": 0,
+      "GLOW_RADIUS": 4,
+      "GLOW_ROLLOFF": 2,
+      "GLOW_STRENGTH": 0.05,
+      "GLOW_WHITEPOINT": 0.9,
+      "H_InputGamma": 2.4,
+      "H_MaskGamma": 2.4,
+      "H_OUTPUT_GAMMA": 2.2,
+      "IR_SCALE": 1,
+      "LUT_selector_param": 1,
+      "MASK_STRENGTH": 1,
+      "MONITOR_SUBPIXELS": 0,
+      "PHOSPHOR_LAYOUT": 1,
+      "PRESET_OPTION": 0,
+      "SCANLINES_CUTOFF": 400,
+      "SCANLINES_HIRES": 0,
+      "SCANLINES_SHAPE": 1,
+      "SCANLINES_STRENGTH": 0.72,
+      "SHARPNESS_HACK": 1,
+      "VSCANLINES": 0,
+      "h_cornersize": 0.04,
+      "h_cornersmooth": 0.5,
+      "h_curvature": 0,
+      "h_radius": 5,
+      "h_shape": 0
+    },
+    "portRevision": "adaf9fd",
+    "referenceCertified": false,
+    "shader": "hyllian",
+    "source": {
+      "height": 240,
+      "name": "diagnostic-pattern",
+      "rgbaSha256": "7423c44bddf594ba4e091a84b49bdc601b8b25f88c2a8b6495414a6acbf9a9d0",
+      "width": 320
+    },
+    "upstreamRevision": "0b3ff0b240f82f4cb5e5d0117f8f2080e2764cf7",
+    "webglRenderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)",
+    "webgpu": {
+      "architecture": "metal-3",
+      "description": "",
+      "device": "",
+      "vendor": "apple"
+    }
+  }
+]
