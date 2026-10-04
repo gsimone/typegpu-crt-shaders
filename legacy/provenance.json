@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/gsimone/glyphbox",
+  "revision": "adaf9fd2ed95f00eebddb59052528c451b356e02",
+  "branch": "crt-shaders",
+  "files": [
+    "src/engine/render/postfx.ts",
+    "src/engine/render/png.ts",
+    "src/engine/render/hyllian-luts.ts",
+    "src/engine/tweaks.ts"
+  ],
+  "sha256": {
+    "src/engine/render/postfx.ts": "5bd051f6be0a5425c19617edc03cdcd31df6fcb5d5dbcebc424b736449f2877b",
+    "src/engine/render/png.ts": "afd7b8a8f818492a72dce30583308d6e8adcdc3d6cd06911a635f7b2d7f08a93",
+    "src/engine/render/hyllian-luts.ts": "4387fa53fa45f9faa6340b4fe6e83c884ee0ecbb48bc468de9526265d776a849",
+    "src/engine/tweaks.ts": "574ff5f1132d0f41d5e9092a3ea2094112045ba5513811bade744bf289363929"
+  }
+}

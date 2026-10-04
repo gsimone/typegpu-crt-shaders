@@ -1,0 +1,20 @@
+{
+  "repository": "https://github.com/libretro/slang-shaders",
+  "revision": "0b3ff0b240f82f4cb5e5d0117f8f2080e2764cf7",
+  "presets": {
+    "lottes": "crt/crt-lottes.slangp",
+    "hyllian": "crt/crt-hyllian.slangp"
+  },
+  "files": {
+    "crt/crt-lottes.slangp": "51bdf93aa6e3dd8605bf1c2b19af1f511672b53f3551d8de1041e02a7bbf9610",
+    "crt/shaders/crt-lottes.slang": "e382eec413c2acf5d03cce65d447347553032acf2e550826d0142a9c51d559ef",
+    "crt/crt-hyllian.slangp": "f858cdb6fb9fa2786f85584a66915429e73c9c0cf7b8aea8548b213d2a17363f",
+    "crt/shaders/hyllian/support/multiLUT-linear-fast.slang": "0a63d9df5ff1e07a9507053268ffab0760816217fcfe39591c3825279d738735",
+    "crt/shaders/hyllian/crt-hyllian-base.slang": "c763fba0a737ef68cc88b710c82c747e1f02bb4b99c02db64944c5504682e513",
+    "crt/shaders/hyllian/support/glow/threshold.slang": "653e853465ac18326070f1a2d860f230c72d4aea18feccb6af8a0f224fd1957c",
+    "crt/shaders/hyllian/support/glow/blur_horiz.slang": "3618511b73e2124af028621b4885904df3b0f88c65e691b49de5d33009e1fcbd",
+    "crt/shaders/hyllian/support/glow/blur-glow-mask-geom.slang": "1a06c42a4fe3f0c62f68e0b11dca132e5a3640aae574f87dfbb69a241f36099f",
+    "crt/shaders/hyllian/support/LUT/Sony_Wega_29FA310_no_gamma-v2.png": "f8a3131e2782d64f548b3cbbfdfdc77cc9b72169940f50d73916811c6f9a5e6f",
+    "crt/shaders/hyllian/support/LUT/Sony_Wega_29FA310_no_gamma.png": "303392f028ce76aa91ccc4ed82fcd705b4a074f7ab5bdcbdac00d25a5e986369"
+  }
+}
